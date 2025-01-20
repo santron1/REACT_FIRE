@@ -1,7 +1,7 @@
 # Project README
 
 ## Project Overview
-This project showcases a React-based web application that features draggable cards and a dynamic background. It uses modern web technologies and libraries to create an interactive and visually appealing user interface. The project is designed with future scalability in mind, intending to integrate its components into more extensive React projects.
+This project showcases a React-based web application that features draggable cards and a dynamic background. It uses modern web technologies and libraries to create an interactive and visually appealing user interface. The project is designed with future scalability in mind, intending to integrate its components into more extensive React projects. You can view the deployed version of this project at https://sweet-rolypoly-6d34d0.netlify.app/.
 
 ## Technologies Used
 
